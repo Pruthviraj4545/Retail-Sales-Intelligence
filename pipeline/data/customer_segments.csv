@@ -1,0 +1,794 @@
+customer_id,customer_name,segment,Recency,Frequency,Monetary,cluster,Segment
+AA-10315,Alex Avila,Consumer,184,5,5563.56,2,At Risk
+AA-10375,Allen Armold,Consumer,19,9,1056.39,1,Loyal Regular
+AA-10480,Andrew Allen,Consumer,259,4,1790.5120000000002,2,At Risk
+AA-10645,Anna Andreadi,Consumer,55,6,5086.9349999999995,1,Loyal Regular
+AB-10015,Aaron Bergman,Consumer,415,3,886.156,3,New / Low Engagement
+AB-10060,Adam Bellavance,Home Office,54,8,7755.62,0,High Value
+AB-10105,Adrian Barton,Consumer,41,10,14473.570999999998,0,High Value
+AB-10150,Aimee Bixby,Consumer,41,5,966.71,2,At Risk
+AB-10165,Alan Barnes,Consumer,25,8,1113.838,1,Loyal Regular
+AB-10255,Alejandro Ballentine,Home Office,166,9,914.5319999999999,1,Loyal Regular
+AB-10600,Ann Blume,Corporate,50,4,1515.862,2,At Risk
+AC-10420,Alyssa Crouse,Corporate,232,3,925.8,2,At Risk
+AC-10450,Amy Cox,Consumer,11,7,5527.846,1,Loyal Regular
+AC-10615,Ann Chong,Corporate,6,5,2537.6859999999997,2,At Risk
+AC-10660,Anna Chung,Consumer,282,5,657.316,2,At Risk
+AD-10180,Alan Dominguez,Home Office,29,8,6106.88,1,Loyal Regular
+AF-10870,Art Ferguson,Consumer,41,7,2052.908,1,Loyal Regular
+AF-10885,Art Foster,Consumer,415,4,861.565,3,New / Low Engagement
+AG-10270,Alejandro Grove,Consumer,278,5,2582.898,2,At Risk
+AG-10300,Aleksandra Gannaway,Corporate,118,4,367.548,2,At Risk
+AG-10330,Alex Grayson,Consumer,8,5,660.972,2,At Risk
+AG-10390,Allen Goldenen,Consumer,114,5,200.945,2,At Risk
+AG-10495,Andrew Gjertsen,Corporate,78,7,1419.247,2,At Risk
+AG-10525,Andy Gerbode,Corporate,844,4,1455.038,3,New / Low Engagement
+AG-10675,Anna Gayman,Consumer,97,7,3489.0396000000005,1,Loyal Regular
+AG-10765,Anthony Garverick,Home Office,77,4,170.584,2,At Risk
+AG-10900,Arthur Gainer,Consumer,96,10,4510.797,1,Loyal Regular
+AH-10030,Aaron Hawkins,Corporate,12,7,1744.7,1,Loyal Regular
+AH-10075,Adam Hart,Corporate,34,10,3250.337,1,Loyal Regular
+AH-10120,Adrian Hane,Home Office,60,7,1735.5140000000001,1,Loyal Regular
+AH-10195,Alan Haines,Corporate,55,4,1587.452,2,At Risk
+AH-10210,Alan Hwang,Consumer,6,9,4805.344,1,Loyal Regular
+AH-10465,Amy Hunt,Consumer,230,5,2495.3916,2,At Risk
+AH-10585,Angele Hood,Consumer,21,4,738.504,2,At Risk
+AH-10690,Anna Häberlin,Corporate,410,12,7888.294,0,High Value
+AI-10855,Arianne Irving,Consumer,13,10,4375.786,1,Loyal Regular
+AJ-10780,Anthony Jacobs,Corporate,75,7,4867.344,1,Loyal Regular
+AJ-10795,Anthony Johnson,Corporate,166,7,4501.391,1,Loyal Regular
+AJ-10945,Ashley Jarboe,Consumer,121,6,1829.896,2,At Risk
+AJ-10960,Astrea Jones,Consumer,74,3,629.2479999999999,2,At Risk
+AM-10360,Alice McCarthy,Corporate,28,5,814.012,2,At Risk
+AM-10705,Anne McFarland,Consumer,162,8,5664.022,1,Loyal Regular
+AO-10810,Anthony O'Donnell,Corporate,501,1,161.28,3,New / Low Engagement
+AP-10720,Anne Pryor,Home Office,41,6,545.932,2,At Risk
+AP-10915,Arthur Prichep,Consumer,98,10,3323.556,1,Loyal Regular
+AR-10345,Alex Russell,Corporate,111,4,1055.694,2,At Risk
+AR-10405,Allen Rosenblatt,Corporate,125,5,2236.128,2,At Risk
+AR-10510,Andrew Roberts,Consumer,14,5,264.86400000000003,2,At Risk
+AR-10540,Andy Reiter,Consumer,6,6,6608.448,0,High Value
+AR-10570,Anemone Ratner,Consumer,534,1,88.15,3,New / Low Engagement
+AR-10825,Anthony Rawles,Corporate,58,8,4523.336,1,Loyal Regular
+AS-10045,Aaron Smayling,Corporate,88,7,3050.692,1,Loyal Regular
+AS-10090,Adam Shillingsburg,Consumer,28,9,3255.31,1,Loyal Regular
+AS-10135,Adrian Shami,Home Office,41,2,58.82,2,At Risk
+AS-10225,Alan Schoenberger,Corporate,22,5,4260.784,2,At Risk
+AS-10240,Alan Shonely,Consumer,192,5,503.968,2,At Risk
+AS-10285,Alejandro Savely,Corporate,19,6,3214.236,2,At Risk
+AS-10630,Ann Steele,Home Office,92,7,833.398,2,At Risk
+AT-10435,Alyssa Tate,Home Office,21,5,1166.0720000000001,2,At Risk
+AT-10735,Annie Thurman,Consumer,13,10,3831.864,1,Loyal Regular
+AW-10840,Anthony Witt,Consumer,20,4,649.376,2,At Risk
+AW-10930,Arthur Wiediger,Home Office,46,7,2852.968,1,Loyal Regular
+AY-10555,Andy Yotov,Corporate,14,4,497.014,2,At Risk
+AZ-10750,Annie Zypern,Consumer,160,6,1622.0179999999998,2,At Risk
+BB-10990,Barry Blumstein,Corporate,105,5,744.3399999999999,2,At Risk
+BB-11545,Brenda Bowman,Corporate,28,9,6765.728,0,High Value
+BC-11125,Becky Castell,Home Office,202,9,2933.676,1,Loyal Regular
+BD-11320,Bill Donatelli,Consumer,33,12,5718.521,1,Loyal Regular
+BD-11500,Bradley Drucker,Consumer,35,6,4411.2429999999995,1,Loyal Regular
+BD-11560,Brendan Dodson,Home Office,278,2,320.54,2,At Risk
+BD-11605,Brian Dahlen,Consumer,97,6,2783.189,2,At Risk
+BD-11620,Brian DeCherney,Consumer,69,6,1538.11,2,At Risk
+BD-11635,Brian Derr,Consumer,9,3,582.646,2,At Risk
+BD-11725,Bruce Degenhardt,Consumer,93,6,1526.5,2,At Risk
+BD-11770,Bryan Davis,Consumer,327,6,658.466,2,At Risk
+BE-11335,Bill Eplett,Home Office,119,5,4204.676,2,At Risk
+BE-11410,Bobby Elias,Consumer,98,5,2261.438,2,At Risk
+BE-11455,Brad Eason,Home Office,481,5,748.026,3,New / Low Engagement
+BF-10975,Barbara Fisher,Corporate,91,7,599.798,2,At Risk
+BF-11005,Barry Franz,Home Office,39,4,1333.88,2,At Risk
+BF-11020,Barry Französisch,Corporate,74,8,2888.506,1,Loyal Regular
+BF-11080,Bart Folk,Consumer,25,3,272.95,2,At Risk
+BF-11170,Ben Ferrer,Home Office,16,11,5907.972,1,Loyal Regular
+BF-11215,Benjamin Farhat,Home Office,65,4,1585.162,2,At Risk
+BF-11275,Beth Fritzler,Corporate,57,3,791.9899999999999,2,At Risk
+BG-11035,Barry Gonzalez,Consumer,28,8,2798.948,1,Loyal Regular
+BG-11695,Brooke Gillingham,Corporate,36,6,1874.172,2,At Risk
+BG-11740,Bruce Geld,Consumer,57,6,1006.356,2,At Risk
+BH-11710,Brosina Hoffman,Consumer,23,8,6255.351,1,Loyal Regular
+BK-11260,Berenike Kampe,Consumer,77,6,659.1379999999999,2,At Risk
+BM-11140,Becky Martin,Consumer,307,4,11789.63,0,High Value
+BM-11575,Brendan Murry,Corporate,100,6,808.162,2,At Risk
+BM-11650,Brian Moss,Corporate,33,11,7294.185,0,High Value
+BM-11785,Bryan Mills,Consumer,218,10,1338.842,1,Loyal Regular
+BN-11470,Brad Norvell,Corporate,24,4,265.296,2,At Risk
+BN-11515,Bradley Nguyen,Consumer,9,5,1459.344,2,At Risk
+BO-11350,Bill Overfelt,Corporate,137,5,2682.728,2,At Risk
+BO-11425,Bobby Odegard,Consumer,75,2,130.83,2,At Risk
+BP-11050,Barry Pond,Corporate,83,5,983.42,2,At Risk
+BP-11095,Bart Pistole,Corporate,17,12,2442.044,1,Loyal Regular
+BP-11155,Becky Pak,Consumer,89,6,1697.8609999999999,2,At Risk
+BP-11185,Ben Peterman,Corporate,1,9,3675.861,1,Loyal Regular
+BP-11230,Benjamin Patterson,Consumer,39,5,1181.49,2,At Risk
+BP-11290,Beth Paige,Consumer,12,7,2475.157,1,Loyal Regular
+BS-11365,Bill Shonely,Corporate,558,5,10501.653,0,High Value
+BS-11380,Bill Stewart,Corporate,28,5,3887.834,2,At Risk
+BS-11590,Brendan Sweed,Corporate,35,6,2454.928,2,At Risk
+BS-11665,Brian Stugart,Consumer,582,3,3288.1099999999997,3,New / Low Engagement
+BS-11755,Bruce Stewart,Consumer,1,7,2562.382,1,Loyal Regular
+BS-11800,Bryan Spruell,Home Office,265,2,949.4300000000001,2,At Risk
+BT-11305,Beth Thompson,Home Office,336,5,2567.656,2,At Risk
+BT-11395,Bill Tyler,Corporate,302,6,2186.6130000000003,2,At Risk
+BT-11440,Bobby Trafton,Consumer,560,4,603.876,3,New / Low Engagement
+BT-11485,Brad Thomas,Home Office,659,2,415.19599999999997,3,New / Low Engagement
+BT-11530,Bradley Talbott,Home Office,91,5,2684.4919999999997,2,At Risk
+BT-11680,Brian Thompson,Consumer,20,7,3196.752,1,Loyal Regular
+BV-11245,Benjamin Venier,Corporate,334,5,1523.2730000000001,2,At Risk
+BW-11065,Barry Weirich,Consumer,212,3,385.516,2,At Risk
+BW-11110,Bart Watters,Corporate,121,8,4750.358,1,Loyal Regular
+BW-11200,Ben Wallace,Consumer,203,6,1738.406,2,At Risk
+CA-11965,Carol Adams,Corporate,96,6,3789.7228,2,At Risk
+CA-12055,Cathy Armstrong,Home Office,401,5,1679.7240000000002,3,New / Low Engagement
+CA-12265,Christina Anderson,Consumer,56,8,2638.3272,1,Loyal Regular
+CA-12310,Christine Abelman,Corporate,13,4,1421.954,2,At Risk
+CA-12775,Cynthia Arntzen,Consumer,120,7,3041.566,1,Loyal Regular
+CB-12025,Cassandra Brandow,Consumer,47,9,5730.669,1,Loyal Regular
+CB-12415,Christy Brittain,Consumer,26,8,1949.2,1,Loyal Regular
+CB-12535,Claudia Bergmann,Corporate,197,8,4246.4555,1,Loyal Regular
+CC-12100,Chad Cunningham,Home Office,457,5,1685.889,3,New / Low Engagement
+CC-12145,Charles Crestani,Consumer,106,7,2471.65,1,Loyal Regular
+CC-12220,Chris Cortes,Consumer,20,11,3670.258,1,Loyal Regular
+CC-12370,Christopher Conant,Consumer,43,5,12129.072000000002,0,High Value
+CC-12430,Chuck Clark,Home Office,0,10,2870.05,1,Loyal Regular
+CC-12475,Cindy Chapman,Consumer,39,9,1659.438,1,Loyal Regular
+CC-12550,Clay Cheatham,Consumer,27,3,113.832,2,At Risk
+CC-12610,Corey Catlett,Corporate,34,7,2540.631,1,Loyal Regular
+CC-12670,Craig Carreira,Consumer,29,7,2269.7015,1,Loyal Regular
+CC-12685,Craig Carroll,Consumer,798,4,2854.1150000000002,3,New / Low Engagement
+CD-11920,Carlos Daly,Consumer,40,5,2033.968,2,At Risk
+CD-11980,Carol Darley,Consumer,54,3,639.766,2,At Risk
+CD-12280,Christina DeMoss,Consumer,42,2,1205.584,2,At Risk
+CD-12790,Cynthia Delaney,Home Office,399,5,1860.732,3,New / Low Engagement
+CG-12040,Catherine Glotzbach,Home Office,49,6,904.4680000000001,2,At Risk
+CG-12520,Claire Gute,Consumer,338,3,1148.7800000000002,3,New / Low Engagement
+CH-12070,Cathy Hwang,Home Office,690,3,1537.236,3,New / Low Engagement
+CJ-11875,Carl Jackson,Corporate,365,1,16.52,3,New / Low Engagement
+CJ-12010,Caroline Jumper,Consumer,189,8,11164.974,0,High Value
+CK-12205,Chloris Kastensmidt,Consumer,39,13,3154.855,1,Loyal Regular
+CK-12325,Christine Kargatis,Home Office,120,5,2945.321,2,At Risk
+CK-12595,Clytie Kelty,Consumer,43,11,2372.75,1,Loyal Regular
+CK-12760,Cyma Kinney,Corporate,82,9,1582.109,1,Loyal Regular
+CL-11890,Carl Ludwig,Consumer,106,4,1262.0140000000001,2,At Risk
+CL-12565,Clay Ludtke,Consumer,284,12,10880.546,0,High Value
+CL-12700,Craig Leslie,Home Office,260,4,2335.586,2,At Risk
+CM-11815,Candace McMahon,Corporate,131,6,1673.888,2,At Risk
+CM-11935,Carlos Meador,Consumer,707,2,565.392,3,New / Low Engagement
+CM-12115,Chad McGuire,Consumer,8,4,1661.6100000000001,2,At Risk
+CM-12160,Charles McCrossin,Consumer,26,6,2533.314,2,At Risk
+CM-12190,Charlotte Melton,Consumer,8,6,1475.144,2,At Risk
+CM-12235,Chris McAfee,Consumer,385,5,2305.712,3,New / Low Engagement
+CM-12385,Christopher Martinez,Consumer,37,4,8954.019999999999,0,High Value
+CM-12445,Chuck Magee,Consumer,436,3,287.99,3,New / Low Engagement
+CM-12655,Corinna Mitchell,Home Office,27,5,5890.508,2,At Risk
+CM-12715,Craig Molinari,Corporate,1034,4,3984.4524,3,New / Low Engagement
+CP-12085,Cathy Prescott,Corporate,82,8,5402.254,1,Loyal Regular
+CP-12340,Christine Phan,Corporate,160,7,5817.187,1,Loyal Regular
+CR-12580,Clay Rozendal,Home Office,57,4,2148.852,2,At Risk
+CR-12625,Corey Roper,Home Office,470,3,475.9,3,New / Low Engagement
+CR-12730,Craig Reiter,Consumer,78,4,1600.55,2,At Risk
+CR-12820,Cyra Reiten,Home Office,85,3,1397.8724,2,At Risk
+CS-11845,Cari Sayre,Corporate,91,5,1278.954,2,At Risk
+CS-11860,Cari Schnelling,Consumer,162,6,537.632,2,At Risk
+CS-11950,Carlos Soltero,Consumer,25,11,3036.547,1,Loyal Regular
+CS-12130,Chad Sievert,Consumer,489,4,884.64,3,New / Low Engagement
+CS-12175,Charles Sheldon,Corporate,232,5,844.4580000000001,2,At Risk
+CS-12250,Chris Selesnick,Corporate,26,12,2754.216,1,Loyal Regular
+CS-12355,Christine Sundaresam,Consumer,6,11,3202.1620000000003,1,Loyal Regular
+CS-12400,Christopher Schild,Home Office,2,9,3651.8585000000003,1,Loyal Regular
+CS-12460,Chuck Sachs,Consumer,27,2,550.644,2,At Risk
+CS-12490,Cindy Schnelling,Corporate,424,4,970.1105,3,New / Low Engagement
+CS-12505,Cindy Stewart,Consumer,58,6,5690.054999999999,1,Loyal Regular
+CT-11995,Carol Triggs,Consumer,96,8,3241.898,1,Loyal Regular
+CV-12295,Christina VanderZanden,Consumer,254,5,2830.6279999999997,2,At Risk
+CV-12805,Cynthia Voltz,Corporate,5,9,2370.3136,1,Loyal Regular
+CW-11905,Carl Weiss,Home Office,22,6,1136.592,2,At Risk
+CY-12745,Craig Yedwab,Corporate,60,7,2004.0819999999999,1,Loyal Regular
+Co-12640,Corey-Lock,Consumer,549,5,1300.076,3,New / Low Engagement
+DA-13450,Dianna Arnett,Home Office,352,4,156.76,3,New / Low Engagement
+DB-12910,Daniel Byrd,Home Office,21,8,2171.599,1,Loyal Regular
+DB-12970,Darren Budd,Corporate,241,4,2469.6672,2,At Risk
+DB-13060,Dave Brooks,Consumer,16,6,4151.51,1,Loyal Regular
+DB-13120,David Bremer,Corporate,48,7,2973.094,1,Loyal Regular
+DB-13210,Dean Braden,Consumer,9,10,2332.577,1,Loyal Regular
+DB-13270,Deborah Brumfield,Home Office,53,8,4655.897,1,Loyal Regular
+DB-13360,Dennis Bolton,Home Office,264,5,1081.466,2,At Risk
+DB-13405,Denny Blanton,Consumer,187,4,1711.692,2,At Risk
+DB-13555,Dorothy Badders,Corporate,107,7,3908.8028,1,Loyal Regular
+DB-13615,Doug Bickford,Consumer,33,7,1989.05,1,Loyal Regular
+DB-13660,Duane Benoit,Consumer,12,7,1155.202,2,At Risk
+DC-12850,Dan Campbell,Consumer,37,9,3336.168,1,Loyal Regular
+DC-13285,Debra Catini,Consumer,23,5,1174.618,2,At Risk
+DD-13570,Dorothy Dickinson,Consumer,41,6,269.542,2,At Risk
+DE-13255,Deanra Eno,Home Office,718,5,2550.874,3,New / Low Engagement
+DF-13135,David Flashing,Consumer,699,3,2390.534,3,New / Low Engagement
+DG-13300,Deirdre Greer,Corporate,32,5,3195.818,2,At Risk
+DH-13075,Dave Hallsten,Corporate,277,5,3487.1980000000003,2,At Risk
+DH-13675,Duane Huffman,Home Office,775,4,1043.096,3,New / Low Engagement
+DJ-13420,Denny Joy,Corporate,637,4,2012.52,3,New / Low Engagement
+DJ-13510,Don Jones,Corporate,48,8,2501.6879999999996,1,Loyal Regular
+DJ-13630,Doug Jacobs,Consumer,12,3,3356.398,2,At Risk
+DK-12835,Damala Kotsonis,Corporate,21,12,3256.48,1,Loyal Regular
+DK-12895,Dana Kaydos,Consumer,45,5,4282.176,2,At Risk
+DK-12985,Darren Koutras,Consumer,7,5,1687.04,2,At Risk
+DK-13090,Dave Kipp,Consumer,42,7,2650.557,1,Loyal Regular
+DK-13150,David Kendrick,Corporate,10,2,797.832,2,At Risk
+DK-13225,Dean Katz,Corporate,10,9,4802.394,1,Loyal Regular
+DK-13375,Dennis Kane,Consumer,19,8,3318.486,1,Loyal Regular
+DL-12865,Dan Lawera,Consumer,100,7,444.024,2,At Risk
+DL-12925,Daniel Lacy,Consumer,57,6,3272.2,2,At Risk
+DL-13315,Delfina Latchford,Consumer,22,8,1458.258,1,Loyal Regular
+DL-13330,Denise Leinenbach,Consumer,57,4,585.02,2,At Risk
+DL-13495,Dionis Lloyd,Corporate,76,8,3539.322,1,Loyal Regular
+DM-12955,Dario Medina,Corporate,114,7,1322.034,2,At Risk
+DM-13015,Darrin Martin,Consumer,57,7,6345.103,1,Loyal Regular
+DM-13345,Denise Monton,Corporate,22,8,4074.4719999999998,1,Loyal Regular
+DM-13525,Don Miller,Corporate,481,3,1376.792,3,New / Low Engagement
+DN-13690,Duane Noonan,Consumer,217,7,2139.79,1,Loyal Regular
+DO-13435,Denny Ordway,Consumer,133,9,1300.0315,1,Loyal Regular
+DO-13645,Doug O'Connell,Consumer,26,7,1267.316,1,Loyal Regular
+DP-13000,Darren Powers,Consumer,126,8,897.524,1,Loyal Regular
+DP-13105,Dave Poirier,Corporate,6,8,2215.002,1,Loyal Regular
+DP-13165,David Philippe,Consumer,811,2,1058.616,3,New / Low Engagement
+DP-13390,Dennis Pardue,Home Office,358,9,5480.723999999999,1,Loyal Regular
+DR-12880,Dan Reichenbach,Corporate,3,9,6528.034000000001,1,Loyal Regular
+DR-12940,Daniel Raglin,Home Office,50,8,8350.868,0,High Value
+DS-13030,Darrin Sayre,Home Office,93,4,1762.213,2,At Risk
+DS-13180,David Smith,Corporate,23,9,2881.8128,1,Loyal Regular
+DV-13045,Darrin Van Huff,Corporate,19,5,1119.483,2,At Risk
+DV-13465,Dianna Vittorini,Consumer,29,5,3254.487,2,At Risk
+DW-13195,David Wiener,Corporate,69,6,1080.751,2,At Risk
+DW-13480,Dianna Wilson,Home Office,217,5,5271.628,2,At Risk
+DW-13540,Don Weiss,Consumer,98,5,344.08,2,At Risk
+DW-13585,Dorothy Wardle,Corporate,242,7,1204.854,2,At Risk
+Dl-13600,Dorris liebe,Corporate,119,5,755.602,2,At Risk
+Dp-13240,Dean percer,Home Office,84,11,7198.7609999999995,0,High Value
+EA-14035,Erin Ashbrook,Corporate,152,12,2752.441,1,Loyal Regular
+EB-13705,Ed Braxton,Corporate,48,9,3644.978,1,Loyal Regular
+EB-13750,Edward Becker,Corporate,35,10,3236.314,1,Loyal Regular
+EB-13840,Ellis Ballard,Corporate,90,4,964.448,2,At Risk
+EB-13870,Emily Burns,Consumer,100,10,2767.219,1,Loyal Regular
+EB-13930,Eric Barreto,Consumer,161,5,944.6000000000001,2,At Risk
+EB-13975,Erica Bern,Corporate,0,4,1643.255,2,At Risk
+EB-14110,Eugene Barchas,Consumer,113,6,3071.126,2,At Risk
+EB-14170,Evan Bailliet,Consumer,82,6,1186.326,2,At Risk
+EC-14050,Erin Creighton,Consumer,53,5,461.914,2,At Risk
+ED-13885,Emily Ducich,Home Office,135,8,3484.92,1,Loyal Regular
+EG-13900,Emily Grady,Consumer,22,5,1832.02,2,At Risk
+EH-13765,Edward Hooks,Corporate,135,10,9940.380000000001,0,High Value
+EH-13945,Eric Hoffmann,Consumer,217,8,684.1709999999999,1,Loyal Regular
+EH-13990,Erica Hackney,Consumer,405,6,825.9499999999999,3,New / Low Engagement
+EH-14005,Erica Hernandez,Home Office,2,7,1219.53,1,Loyal Regular
+EH-14125,Eugene Hildebrand,Home Office,152,10,3082.653,1,Loyal Regular
+EH-14185,Evan Henry,Consumer,105,6,923.884,2,At Risk
+EJ-13720,Ed Jacobs,Consumer,302,4,2162.174,2,At Risk
+EJ-14155,Eva Jacobs,Consumer,57,5,2656.691,2,At Risk
+EK-13795,Eileen Kiefer,Home Office,44,4,1303.478,2,At Risk
+EL-13735,Ed Ludwig,Home Office,77,2,124.28,2,At Risk
+EM-13810,Eleni McCrary,Corporate,132,5,2567.0099999999998,2,At Risk
+EM-13825,Elizabeth Moffitt,Corporate,55,8,2339.598,1,Loyal Regular
+EM-13960,Eric Murdock,Consumer,151,5,933.704,2,At Risk
+EM-14065,Erin Mull,Consumer,47,4,228.99,2,At Risk
+EM-14095,Eudokia Martin,Corporate,113,4,1041.0420000000001,2,At Risk
+EM-14140,Eugene Moren,Home Office,48,6,4588.436000000001,1,Loyal Regular
+EM-14200,Evan Minnotte,Home Office,158,3,366.822,2,At Risk
+EN-13780,Edward Nazzal,Consumer,287,4,2199.366,2,At Risk
+EP-13915,Emily Phan,Consumer,12,17,5478.0608,1,Loyal Regular
+ER-13855,Elpida Rittenbach,Corporate,421,3,1245.788,3,New / Low Engagement
+ES-14020,Erica Smith,Consumer,40,5,3510.4579999999996,2,At Risk
+ES-14080,Erin Smith,Corporate,28,9,4657.924,1,Loyal Regular
+FA-14230,Frank Atkinson,Corporate,97,7,2984.054,1,Loyal Regular
+FC-14245,Frank Carlisle,Home Office,70,7,3418.742,1,Loyal Regular
+FC-14335,Fred Chung,Corporate,184,7,3889.366,1,Loyal Regular
+FG-14260,Frank Gastineau,Home Office,34,7,1383.144,1,Loyal Regular
+FH-14275,Frank Hawley,Corporate,37,10,4256.272,1,Loyal Regular
+FH-14350,Fred Harton,Consumer,212,4,2271.284,2,At Risk
+FH-14365,Fred Hopkins,Corporate,5,8,6987.196,0,High Value
+FM-14215,Filia McAdams,Corporate,7,10,2456.638,1,Loyal Regular
+FM-14290,Frank Merwin,Home Office,36,9,3736.198,1,Loyal Regular
+FM-14380,Fred McMath,Consumer,145,9,2523.266,1,Loyal Regular
+FO-14305,Frank Olsen,Consumer,38,10,2678.438,1,Loyal Regular
+FP-14320,Frank Preis,Consumer,23,8,4046.746,1,Loyal Regular
+FW-14395,Fred Wasserman,Corporate,362,3,79.75,3,New / Low Engagement
+GA-14515,George Ashbrook,Consumer,149,5,3797.2320000000004,2,At Risk
+GA-14725,Guy Armstrong,Consumer,5,11,1398.382,1,Loyal Regular
+GB-14530,George Bell,Corporate,62,11,1568.44,1,Loyal Regular
+GB-14575,Giulietta Baptist,Consumer,13,5,4716.288,2,At Risk
+GD-14590,Giulietta Dortch,Corporate,5,4,1888.07,2,At Risk
+GG-14650,Greg Guthrie,Corporate,43,9,2224.0,1,Loyal Regular
+GH-14410,Gary Hansen,Home Office,75,9,2819.4669999999996,1,Loyal Regular
+GH-14425,Gary Hwang,Consumer,50,4,4172.8460000000005,2,At Risk
+GH-14485,Gene Hale,Corporate,387,2,1361.2440000000001,3,New / Low Engagement
+GH-14665,Greg Hansen,Consumer,2,2,146.94080000000002,2,At Risk
+GK-14620,Grace Kelly,Corporate,112,9,6497.27,0,High Value
+GM-14440,Gary McGarr,Consumer,83,7,3582.8199999999997,1,Loyal Regular
+GM-14455,Gary Mitchum,Home Office,16,6,3078.624,2,At Risk
+GM-14500,Gene McClure,Consumer,106,10,1255.682,1,Loyal Regular
+GM-14680,Greg Matthias,Consumer,152,6,3163.628,2,At Risk
+GM-14695,Greg Maxwell,Corporate,117,3,6049.966,2,At Risk
+GP-14740,Guy Phonely,Corporate,764,2,236.53,3,New / Low Engagement
+GR-14560,Georgia Rosenberg,Corporate,1135,2,1284.38,3,New / Low Engagement
+GT-14635,Grant Thornton,Corporate,56,3,9351.212,0,High Value
+GT-14710,Greg Tran,Consumer,36,11,11820.119999999999,0,High Value
+GT-14755,Guy Thornton,Consumer,34,4,226.436,2,At Risk
+GW-14605,Giulietta Weimer,Consumer,28,7,2189.019,1,Loyal Regular
+GZ-14470,Gary Zandusky,Consumer,7,9,4355.150000000001,1,Loyal Regular
+GZ-14545,George Zrebassa,Corporate,157,4,2454.6220000000003,2,At Risk
+HA-14905,Helen Abelman,Consumer,69,7,2163.3,1,Loyal Regular
+HA-14920,Helen Andreada,Consumer,20,8,2584.158,1,Loyal Regular
+HD-14785,Harold Dahlen,Home Office,768,3,251.36,3,New / Low Engagement
+HE-14800,Harold Engle,Corporate,12,3,755.462,2,At Risk
+HF-14995,Herbert Flentye,Consumer,21,7,2533.1639999999998,1,Loyal Regular
+HG-14845,Harry Greene,Consumer,54,5,785.628,2,At Risk
+HG-14965,Henry Goldwyn,Corporate,23,12,3247.642,1,Loyal Regular
+HG-15025,Hunter Glantz,Consumer,6,7,3690.284,1,Loyal Regular
+HH-15010,Hilary Holden,Corporate,72,2,218.668,2,At Risk
+HJ-14875,Heather Jas,Home Office,126,5,358.1,2,At Risk
+HK-14890,Heather Kirkland,Corporate,151,8,4877.784,1,Loyal Regular
+HL-15040,Hunter Lopez,Consumer,43,6,12873.297999999999,0,High Value
+HM-14860,Harry Marie,Corporate,2,10,8236.7648,0,High Value
+HM-14980,Henry MacAllister,Consumer,247,4,736.276,2,At Risk
+HP-14815,Harold Pawlan,Home Office,30,7,1990.314,1,Loyal Regular
+HR-14770,Hallie Redmond,Home Office,13,4,940.588,2,At Risk
+HR-14830,Harold Ryan,Corporate,159,7,5248.787,1,Loyal Regular
+HW-14935,Helen Wasserman,Corporate,117,7,4827.934,1,Loyal Regular
+HZ-14950,Henia Zydlo,Consumer,35,5,886.52,2,At Risk
+IG-15085,Ivan Gibson,Consumer,71,4,744.574,2,At Risk
+IL-15100,Ivan Liston,Consumer,142,7,5040.736,1,Loyal Regular
+IM-15055,Ionia McGrath,Consumer,409,2,48.4,3,New / Low Engagement
+IM-15070,Irene Maddox,Consumer,390,7,4930.474,1,Loyal Regular
+JA-15970,Joseph Airdo,Consumer,92,8,6491.026,0,High Value
+JB-15400,Jennifer Braxton,Corporate,7,10,1791.605,1,Loyal Regular
+JB-15925,Joni Blumstein,Consumer,736,3,900.552,3,New / Low Engagement
+JB-16000,Joy Bell-,Consumer,43,7,644.1188,2,At Risk
+JB-16045,Julia Barnett,Home Office,7,5,2518.115,2,At Risk
+JC-15340,Jasper Cacioppo,Consumer,114,4,71.263,2,At Risk
+JC-15385,Jenna Caffey,Consumer,175,1,1058.108,2,At Risk
+JC-15775,John Castell,Consumer,158,9,2772.055,1,Loyal Regular
+JC-16105,Julie Creighton,Corporate,57,5,858.576,2,At Risk
+JD-15790,John Dryer,Consumer,117,5,2152.352,2,At Risk
+JD-15895,Jonathan Doherty,Corporate,394,11,7610.8640000000005,0,High Value
+JD-16015,Joy Daniels,Consumer,112,6,385.43,2,At Risk
+JD-16060,Julia Dunbar,Consumer,300,3,695.442,2,At Risk
+JD-16150,Justin Deggeller,Corporate,41,8,8828.0305,0,High Value
+JE-15475,Jeremy Ellison,Consumer,193,6,1388.682,2,At Risk
+JE-15610,Jim Epp,Corporate,48,7,7754.976,0,High Value
+JE-15715,Joe Elijah,Consumer,46,10,8697.842999999999,0,High Value
+JE-15745,Joel Eaton,Consumer,51,13,6760.8150000000005,0,High Value
+JE-16165,Justin Ellison,Corporate,20,3,2697.248,2,At Risk
+JF-15190,Jamie Frazer,Consumer,65,6,2239.606,2,At Risk
+JF-15295,Jason Fortune-,Consumer,225,5,955.124,2,At Risk
+JF-15355,Jay Fein,Consumer,105,6,1911.844,2,At Risk
+JF-15415,Jennifer Ferguson,Consumer,2,5,2309.432,2,At Risk
+JF-15490,Jeremy Farry,Consumer,121,10,890.95,1,Loyal Regular
+JF-15565,Jill Fjeld,Consumer,54,8,4198.332,1,Loyal Regular
+JG-15115,Jack Garza,Consumer,757,3,2358.676,3,New / Low Engagement
+JG-15160,James Galang,Consumer,1,11,6366.392,1,Loyal Regular
+JG-15310,Jason Gross,Corporate,2,6,2240.58,2,At Risk
+JG-15805,John Grady,Corporate,223,6,1507.018,2,At Risk
+JH-15430,Jennifer Halladay,Consumer,5,4,309.281,2,At Risk
+JH-15820,John Huston,Consumer,174,6,528.91,2,At Risk
+JH-15910,Jonathan Howell,Consumer,41,7,959.477,2,At Risk
+JH-15985,Joseph Holt,Consumer,29,6,7954.9980000000005,0,High Value
+JH-16180,Justin Hirsh,Consumer,404,4,2256.3940000000002,3,New / Low Engagement
+JJ-15445,Jennifer Jackson,Consumer,483,5,709.178,3,New / Low Engagement
+JJ-15760,Joel Jenkins,Home Office,752,2,195.0,3,New / Low Engagement
+JK-15205,Jamie Kunitz,Consumer,61,4,4262.2919999999995,2,At Risk
+JK-15325,Jason Klamczynski,Corporate,287,3,383.812,2,At Risk
+JK-15370,Jay Kimmel,Consumer,44,7,2136.458,1,Loyal Regular
+JK-15625,Jim Karlsson,Consumer,61,7,3760.028,1,Loyal Regular
+JK-15640,Jim Kriz,Home Office,180,9,4760.434,1,Loyal Regular
+JK-15730,Joe Kamberova,Consumer,84,9,4769.9,1,Loyal Regular
+JK-16090,Juliana Krohn,Consumer,28,3,3747.668,2,At Risk
+JK-16120,Julie Kriz,Home Office,117,10,2932.484,1,Loyal Regular
+JL-15130,Jack Lebron,Consumer,8,6,1214.956,2,At Risk
+JL-15175,James Lanier,Home Office,6,5,1571.523,2,At Risk
+JL-15235,Janet Lee,Consumer,119,5,2203.7,2,At Risk
+JL-15505,Jeremy Lonsdale,Consumer,49,6,3173.874,2,At Risk
+JL-15835,John Lee,Consumer,21,10,9576.343,0,High Value
+JL-15850,John Lucas,Consumer,614,6,2725.256,3,New / Low Engagement
+JM-15250,Janet Martin,Consumer,37,6,3159.1220000000003,2,At Risk
+JM-15265,Janet Molinari,Corporate,37,5,1804.146,2,At Risk
+JM-15535,Jessica Myrick,Consumer,102,7,1733.443,1,Loyal Regular
+JM-15580,Jill Matthias,Consumer,0,5,303.948,2,At Risk
+JM-15655,Jim Mitchum,Corporate,8,5,864.947,2,At Risk
+JM-15865,John Murray,Consumer,109,7,7625.076000000001,0,High Value
+JM-16195,Justin MacKendrick,Consumer,57,10,2833.9260000000004,1,Loyal Regular
+JO-15145,Jack O'Briant,Corporate,57,9,3254.949,1,Loyal Regular
+JO-15280,Jas O'Carroll,Consumer,92,6,1934.272,2,At Risk
+JO-15550,Jesus Ocampo,Home Office,215,5,1090.838,2,At Risk
+JP-15460,Jennifer Patt,Corporate,37,7,1669.135,1,Loyal Regular
+JP-15520,Jeremy Pistek,Consumer,8,7,3635.594,1,Loyal Regular
+JP-16135,Julie Prescott,Home Office,102,9,1707.71,1,Loyal Regular
+JR-15670,Jim Radford,Consumer,593,2,1156.658,3,New / Low Engagement
+JR-15700,Jocasta Rupert,Consumer,68,1,863.88,2,At Risk
+JR-16210,Justin Ritter,Corporate,33,5,2201.686,2,At Risk
+JS-15595,Jill Stevenson,Corporate,119,4,1417.654,2,At Risk
+JS-15685,Jim Sink,Corporate,42,3,990.1959999999999,2,At Risk
+JS-15880,John Stevenson,Consumer,534,5,3868.02,3,New / Low Engagement
+JS-15940,Joni Sundaresam,Home Office,463,5,469.169,3,New / Low Engagement
+JS-16030,Joy Smith,Consumer,28,6,2516.494,2,At Risk
+JW-15220,Jane Waco,Corporate,42,6,7721.714,0,High Value
+JW-15955,Joni Wasserman,Consumer,5,6,1049.2379999999998,2,At Risk
+JW-16075,Julia West,Consumer,461,4,1428.731,3,New / Low Engagement
+KA-16525,Kelly Andreada,Consumer,36,7,1519.506,1,Loyal Regular
+KB-16240,Karen Bern,Corporate,4,7,3152.6150000000002,1,Loyal Regular
+KB-16315,Karl Braun,Consumer,296,9,1569.464,1,Loyal Regular
+KB-16405,Katrina Bavinger,Home Office,117,3,908.821,2,At Risk
+KB-16585,Ken Black,Corporate,230,12,2744.742,1,Loyal Regular
+KB-16600,Ken Brennan,Corporate,1,7,983.922,2,At Risk
+KC-16255,Karen Carlisle,Corporate,407,6,2120.954,3,New / Low Engagement
+KC-16540,Kelly Collister,Consumer,97,4,3908.262,2,At Risk
+KC-16675,Kimberly Carter,Corporate,57,4,1146.05,2,At Risk
+KD-16270,Karen Daniels,Consumer,484,5,8282.358,0,High Value
+KD-16345,Katherine Ducich,Consumer,41,6,1888.964,2,At Risk
+KD-16495,Keith Dawkins,Corporate,112,12,8181.256,0,High Value
+KD-16615,Ken Dana,Corporate,289,4,907.158,2,At Risk
+KE-16420,Katrina Edelman,Corporate,26,7,1453.2812000000001,1,Loyal Regular
+KF-16285,Karen Ferguson,Home Office,97,7,10604.266,0,High Value
+KH-16330,Katharine Harms,Corporate,40,8,3312.864,1,Loyal Regular
+KH-16360,Katherine Hughes,Consumer,1,6,3100.612,2,At Risk
+KH-16510,Keith Herrera,Consumer,22,6,5229.695000000001,1,Loyal Regular
+KH-16630,Ken Heidel,Corporate,58,9,3918.9660000000003,1,Loyal Regular
+KH-16690,Kristen Hastings,Corporate,2,7,5990.799,1,Loyal Regular
+KL-16555,Kelly Lampkin,Corporate,16,8,5016.488,1,Loyal Regular
+KL-16645,Ken Lonsdale,Consumer,47,12,14175.229000000001,0,High Value
+KM-16225,Kalyca Meade,Corporate,14,6,2260.958,2,At Risk
+KM-16375,Katherine Murray,Home Office,56,8,5620.186,1,Loyal Regular
+KM-16660,Khloe Miller,Consumer,15,5,453.538,2,At Risk
+KM-16720,Kunst Miller,Consumer,28,8,4909.472,1,Loyal Regular
+KN-16390,Katherine Nockton,Corporate,19,8,2224.0860000000002,1,Loyal Regular
+KN-16450,Kean Nguyen,Corporate,52,5,2171.962,2,At Risk
+KN-16705,Kristina Nunn,Home Office,98,7,2003.01,1,Loyal Regular
+KS-16300,Karen Seio,Corporate,295,3,88.472,2,At Risk
+KT-16465,Kean Takahito,Consumer,391,7,3057.1,3,New / Low Engagement
+KT-16480,Kean Thornton,Consumer,100,10,4642.088400000001,1,Loyal Regular
+KW-16435,Katrina Willman,Consumer,96,5,4416.5199999999995,2,At Risk
+KW-16570,Kelly Williams,Consumer,770,4,449.096,3,New / Low Engagement
+LA-16780,Laura Armstrong,Corporate,154,11,8673.222,0,High Value
+LB-16735,Larry Blacks,Consumer,48,3,50.188,2,At Risk
+LB-16795,Laurel Beltran,Home Office,152,8,4985.676,1,Loyal Regular
+LC-16870,Lena Cacioppo,Consumer,27,8,2580.7039999999997,1,Loyal Regular
+LC-16885,Lena Creighton,Consumer,16,12,7663.126,0,High Value
+LC-16930,Linda Cazamias,Corporate,41,8,4492.946,1,Loyal Regular
+LC-16960,Lindsay Castell,Home Office,436,4,3246.626,3,New / Low Engagement
+LC-17050,Liz Carlisle,Consumer,54,5,2095.064,2,At Risk
+LC-17140,Logan Currie,Consumer,13,9,2633.582,1,Loyal Regular
+LD-16855,Lela Donovan,Corporate,552,1,5.304,3,New / Low Engagement
+LD-17005,Lisa DeCherney,Consumer,414,4,1961.934,3,New / Low Engagement
+LE-16810,Laurel Elliston,Consumer,21,6,1469.45,2,At Risk
+LF-17185,Luke Foster,Consumer,22,7,3930.5089999999996,1,Loyal Regular
+LH-16750,Larry Hughes,Consumer,151,3,287.426,2,At Risk
+LH-16900,Lena Hernandez,Consumer,21,9,2295.332,1,Loyal Regular
+LH-17020,Lisa Hazard,Consumer,239,4,318.239,2,At Risk
+LH-17155,Logan Haushalter,Consumer,385,9,1739.689,1,Loyal Regular
+LL-16840,Lauren Leatherbury,Consumer,249,5,2454.554,2,At Risk
+LM-17065,Liz MacKendrick,Consumer,391,5,1346.774,3,New / Low Engagement
+LO-17170,Lori Olson,Corporate,2,5,644.35,2,At Risk
+LP-17080,Liz Pelletier,Consumer,40,4,756.606,2,At Risk
+LP-17095,Liz Preis,Consumer,9,6,3104.439,2,At Risk
+LR-16915,Lena Radford,Consumer,26,6,5142.892,1,Loyal Regular
+LR-17035,Lisa Ryan,Corporate,132,5,1879.306,2,At Risk
+LS-16945,Linda Southworth,Corporate,178,6,2845.27,2,At Risk
+LS-16975,Lindsay Shagiari,Home Office,20,9,2988.674,1,Loyal Regular
+LS-17200,Luke Schmidt,Corporate,96,6,1010.2560000000001,2,At Risk
+LS-17230,Lycoris Saunders,Consumer,776,3,368.88000000000005,3,New / Low Engagement
+LS-17245,Lynn Smith,Consumer,34,6,1008.1360000000001,2,At Risk
+LT-16765,Larry Tron,Consumer,26,3,329.876,2,At Risk
+LT-17110,Liz Thompson,Consumer,34,8,2936.252,1,Loyal Regular
+LW-16825,Laurel Workman,Corporate,88,5,2238.061,2,At Risk
+LW-16990,Lindsay Williams,Corporate,33,6,3230.308,2,At Risk
+LW-17125,Liz Willingham,Consumer,205,3,1259.04,2,At Risk
+LW-17215,Luke Weiss,Consumer,21,7,5420.514,1,Loyal Regular
+MA-17560,Matt Abelman,Home Office,64,11,4299.161,1,Loyal Regular
+MA-17995,Michelle Arnett,Home Office,186,6,2453.284,2,At Risk
+MB-17305,Maria Bertelson,Consumer,48,10,1548.702,1,Loyal Regular
+MB-18085,Mick Brown,Consumer,44,7,1428.231,1,Loyal Regular
+MC-17275,Marc Crier,Consumer,76,8,2725.982,1,Loyal Regular
+MC-17425,Mark Cousins,Corporate,399,5,4432.138,3,New / Low Engagement
+MC-17575,Matt Collins,Consumer,27,8,1303.893,1,Loyal Regular
+MC-17590,Matt Collister,Corporate,51,6,2426.067,2,At Risk
+MC-17605,Matt Connell,Corporate,112,8,2258.192,1,Loyal Regular
+MC-17635,Matthew Clasen,Corporate,189,4,795.154,2,At Risk
+MC-17845,Michael Chen,Consumer,1,7,3805.714,1,Loyal Regular
+MC-18100,Mick Crebagga,Consumer,41,10,2218.98,1,Loyal Regular
+MC-18130,Mike Caudle,Corporate,369,5,1581.9979999999998,3,New / Low Engagement
+MD-17350,Maribeth Dona,Consumer,117,6,2716.412,2,At Risk
+MD-17860,Michael Dominguez,Corporate,36,5,1204.91,2,At Risk
+ME-17320,Maria Etezadi,Home Office,42,10,10663.728000000001,0,High Value
+ME-17725,Max Engle,Consumer,28,8,1908.4532,1,Loyal Regular
+ME-18010,Michelle Ellison,Corporate,92,4,1256.944,2,At Risk
+MF-17665,Maureen Fritzler,Corporate,421,5,937.039,3,New / Low Engagement
+MF-18250,Monica Federle,Corporate,7,5,1758.3,2,At Risk
+MG-17650,Matthew Grinstein,Home Office,29,7,3785.276,1,Loyal Regular
+MG-17680,Maureen Gastineau,Home Office,92,4,2350.188,2,At Risk
+MG-17695,Maureen Gnade,Consumer,555,3,1342.282,3,New / Low Engagement
+MG-17875,Michael Grace,Home Office,116,5,1242.8329999999999,2,At Risk
+MG-17890,Michael Granlund,Home Office,99,9,776.384,1,Loyal Regular
+MG-18145,Mike Gockenbach,Consumer,84,4,3061.543,2,At Risk
+MG-18205,Mitch Gastineau,Corporate,264,1,16.739,2,At Risk
+MH-17290,Marc Harrigan,Home Office,294,5,1691.505,2,At Risk
+MH-17440,Mark Haberlin,Corporate,376,4,400.016,3,New / Low Engagement
+MH-17455,Mark Hamilton,Consumer,170,7,2146.694,1,Loyal Regular
+MH-17620,Matt Hagelstein,Corporate,155,4,1252.8,2,At Risk
+MH-17785,Maya Herman,Corporate,98,7,2203.7780000000002,1,Loyal Regular
+MH-18025,Michelle Huthwaite,Consumer,49,5,2984.948,2,At Risk
+MH-18115,Mick Hernandez,Home Office,5,9,5503.093,1,Loyal Regular
+MJ-17740,Max Jones,Consumer,22,7,6320.746,1,Loyal Regular
+MK-17905,Michael Kennedy,Corporate,28,8,2302.368,1,Loyal Regular
+MK-18160,Mike Kennedy,Consumer,240,4,1031.602,2,At Risk
+ML-17395,Marina Lichtenstein,Corporate,69,9,2722.843,1,Loyal Regular
+ML-17410,Maris LaWare,Consumer,54,5,2885.26,2,At Risk
+ML-17755,Max Ludwig,Home Office,29,7,2071.9139999999998,1,Loyal Regular
+ML-18040,Michelle Lonsdale,Corporate,79,3,742.082,2,At Risk
+ML-18265,Muhammed Lee,Consumer,100,2,162.232,2,At Risk
+MM-17260,Magdelene Morse,Consumer,168,4,1314.023,2,At Risk
+MM-17920,Michael Moore,Consumer,7,10,3640.2560000000003,1,Loyal Regular
+MM-18055,Michelle Moray,Consumer,61,8,2749.881,1,Loyal Regular
+MM-18280,Muhammed MacIntyre,Corporate,85,9,775.414,1,Loyal Regular
+MN-17935,Michael Nguyen,Consumer,34,6,2477.946,2,At Risk
+MO-17500,Mary O'Rourke,Consumer,72,4,922.487,2,At Risk
+MO-17800,Meg O'Connel,Home Office,104,8,1687.0269999999998,1,Loyal Regular
+MO-17950,Michael Oakman,Consumer,180,2,154.288,2,At Risk
+MP-17470,Mark Packer,Home Office,718,6,2945.822,3,New / Low Engagement
+MP-17965,Michael Paige,Corporate,72,9,3983.6420000000003,1,Loyal Regular
+MP-18175,Mike Pelletier,Home Office,16,8,4757.332,1,Loyal Regular
+MR-17545,Mathew Reese,Home Office,125,4,639.178,2,At Risk
+MS-17365,Maribeth Schnelling,Consumer,273,10,7443.6900000000005,0,High Value
+MS-17530,MaryBeth Skach,Consumer,434,4,475.65599999999995,3,New / Low Engagement
+MS-17710,Maurice Satty,Consumer,413,6,1613.402,3,New / Low Engagement
+MS-17770,Maxwell Schwartz,Consumer,121,9,3144.678,1,Loyal Regular
+MS-17830,Melanie Seite,Consumer,452,4,370.348,3,New / Low Engagement
+MS-17980,Michael Stewart,Corporate,26,6,855.116,2,At Risk
+MT-17815,Meg Tillman,Consumer,49,6,2890.139,2,At Risk
+MT-18070,Michelle Tran,Home Office,203,4,1319.4498,2,At Risk
+MV-17485,Mark Van Huff,Consumer,27,9,1560.05,1,Loyal Regular
+MV-18190,Mike Vittorini,Consumer,19,7,1734.574,1,Loyal Regular
+MW-18220,Mitch Webber,Consumer,17,7,5341.900000000001,1,Loyal Regular
+MW-18235,Mitch Willingham,Corporate,44,2,5253.876,2,At Risk
+MY-17380,Maribeth Yedwab,Corporate,29,7,2254.285,1,Loyal Regular
+MY-18295,Muhammed Yedwab,Corporate,71,10,3601.88,1,Loyal Regular
+MZ-17335,Maria Zettner,Home Office,30,4,593.606,2,At Risk
+MZ-17515,Mary Zewe,Corporate,282,6,2564.906,2,At Risk
+NB-18580,Nicole Brennan,Corporate,1165,2,273.87199999999996,3,New / Low Engagement
+NB-18655,Nona Balk,Corporate,19,9,1972.599,1,Loyal Regular
+NC-18340,Nat Carroll,Consumer,224,5,2461.404,2,At Risk
+NC-18415,Nathan Cano,Consumer,41,6,2218.9900000000002,2,At Risk
+NC-18535,Nick Crebassa,Corporate,6,7,8241.739,0,High Value
+NC-18625,Noah Childs,Corporate,204,5,1821.742,2,At Risk
+ND-18370,Natalie DeCherney,Consumer,27,9,4326.139,1,Loyal Regular
+ND-18460,Neil Ducich,Corporate,183,6,2893.455,2,At Risk
+NF-18385,Natalie Fritzler,Consumer,79,6,8080.474,0,High Value
+NF-18475,Neil Französisch,Home Office,525,4,377.16200000000003,3,New / Low Engagement
+NF-18595,Nicole Fjeld,Home Office,114,7,2031.472,1,Loyal Regular
+NG-18355,Nat Gilpin,Corporate,48,5,1869.58,2,At Risk
+NG-18430,Nathan Gelder,Consumer,48,5,1395.9379999999999,2,At Risk
+NH-18610,Nicole Hansen,Corporate,189,6,2518.6659999999997,2,At Risk
+NK-18490,Neil Knudson,Home Office,70,7,572.048,2,At Risk
+NL-18310,Nancy Lomonaco,Home Office,58,4,1418.0900000000001,2,At Risk
+NM-18445,Nathan Mautz,Home Office,160,7,6459.344,0,High Value
+NM-18520,Neoma Murray,Consumer,244,10,2161.979,1,Loyal Regular
+NP-18325,Naresj Patel,Consumer,25,6,5529.62,1,Loyal Regular
+NP-18670,Nora Paige,Consumer,58,5,3908.402,2,At Risk
+NP-18685,Nora Pelletier,Home Office,406,5,1164.73,3,New / Low Engagement
+NP-18700,Nora Preis,Consumer,138,7,7903.1825,0,High Value
+NR-18550,Nick Radford,Consumer,210,5,2367.277,2,At Risk
+NS-18505,Neola Schneider,Consumer,6,4,2575.863,2,At Risk
+NS-18640,Noel Staavos,Corporate,174,12,2857.753,1,Loyal Regular
+NW-18400,Natalie Webber,Consumer,172,7,7234.014,0,High Value
+NZ-18565,Nick Zandusky,Home Office,85,9,2488.31,1,Loyal Regular
+ON-18715,Odella Nelson,Corporate,410,9,1567.52,1,Loyal Regular
+OT-18730,Olvera Toch,Consumer,65,5,3818.624,2,At Risk
+PA-19060,Pete Armstrong,Home Office,103,6,729.408,2,At Risk
+PB-18805,Patrick Bzostek,Home Office,25,3,740.356,2,At Risk
+PB-19105,Peter Bühler,Consumer,57,4,688.324,2,At Risk
+PB-19150,Philip Brown,Consumer,97,8,1456.95,1,Loyal Regular
+PB-19210,Phillip Breyer,Corporate,687,2,132.738,3,New / Low Engagement
+PC-18745,Pamela Coakley,Corporate,2,4,1832.064,2,At Risk
+PC-19000,Pauline Chand,Home Office,881,2,1061.488,3,New / Low Engagement
+PF-19120,Peter Fuller,Consumer,834,4,9062.864,3,New / Low Engagement
+PF-19165,Philip Fox,Consumer,196,6,2770.0,2,At Risk
+PF-19225,Phillip Flathmann,Consumer,114,5,2206.1279999999997,2,At Risk
+PG-18820,Patrick Gardner,Consumer,36,13,3086.907,1,Loyal Regular
+PG-18895,Paul Gonzalez,Consumer,57,9,1987.164,1,Loyal Regular
+PH-18790,Patricia Hirasaki,Home Office,70,1,729.648,2,At Risk
+PJ-18835,Patrick Jones,Corporate,39,8,1220.09,1,Loyal Regular
+PJ-19015,Pauline Johnson,Consumer,134,6,1677.536,2,At Risk
+PK-18910,Paul Knutson,Home Office,483,2,1441.152,3,New / Low Engagement
+PK-19075,Pete Kriz,Consumer,9,12,8646.934,0,High Value
+PL-18925,Paul Lucas,Home Office,15,5,239.481,2,At Risk
+PM-18940,Paul MacIntyre,Consumer,386,3,1405.402,3,New / Low Engagement
+PM-19135,Peter McVee,Home Office,51,4,4115.662,2,At Risk
+PN-18775,Parhena Norris,Home Office,30,8,1467.152,1,Loyal Regular
+PO-18850,Patrick O'Brill,Consumer,4,11,7473.8282,0,High Value
+PO-18865,Patrick O'Donnell,Consumer,0,7,2493.214,1,Loyal Regular
+PO-19180,Philisse Overcash,Home Office,160,9,4893.043,1,Loyal Regular
+PO-19195,Phillina Ober,Home Office,86,5,1056.858,2,At Risk
+PP-18955,Paul Prost,Home Office,97,10,7252.608,0,High Value
+PR-18880,Patrick Ryan,Consumer,36,5,1840.178,2,At Risk
+PS-18760,Pamela Stobb,Consumer,107,6,2181.479,2,At Risk
+PS-18970,Paul Stevenson,Home Office,69,8,1278.639,1,Loyal Regular
+PS-19045,Penelope Sewall,Home Office,236,7,6843.634,0,High Value
+PT-19090,Pete Takahito,Consumer,71,3,158.46,2,At Risk
+PV-18985,Paul Van Hugh,Home Office,89,5,2876.046,2,At Risk
+PW-19030,Pauline Webber,Corporate,46,10,3454.916,1,Loyal Regular
+PW-19240,Pierre Wener,Consumer,464,7,3922.4150000000004,3,New / Low Engagement
+QJ-19255,Quincy Jones,Corporate,25,9,6108.338,1,Loyal Regular
+RA-19285,Ralph Arnett,Consumer,5,9,2617.906,1,Loyal Regular
+RA-19885,Ruben Ausman,Corporate,55,6,3546.224,2,At Risk
+RA-19915,Russell Applegate,Consumer,12,9,4793.543,1,Loyal Regular
+RA-19945,Ryan Akin,Consumer,61,5,1686.9225,2,At Risk
+RB-19330,Randy Bradley,Consumer,68,2,1008.1959999999999,2,At Risk
+RB-19360,Raymond Buch,Consumer,96,6,15117.339,0,High Value
+RB-19435,Richard Bierner,Consumer,41,7,1864.156,1,Loyal Regular
+RB-19465,Rick Bensley,Home Office,9,12,4715.466,1,Loyal Regular
+RB-19570,Rob Beeghly,Consumer,25,5,528.546,2,At Risk
+RB-19645,Robert Barroso,Corporate,648,5,221.084,3,New / Low Engagement
+RB-19705,Roger Barcio,Home Office,54,4,2067.45,2,At Risk
+RB-19795,Ross Baird,Home Office,32,8,5633.316000000001,1,Loyal Regular
+RC-19825,Roy Collins,Consumer,369,6,966.409,3,New / Low Engagement
+RC-19960,Ryan Crowe,Consumer,110,4,652.644,2,At Risk
+RD-19480,Rick Duston,Consumer,72,8,4272.93,1,Loyal Regular
+RD-19585,Rob Dowd,Consumer,180,9,2832.904,1,Loyal Regular
+RD-19660,Robert Dilbeck,Home Office,114,4,2745.892,2,At Risk
+RD-19720,Roger Demir,Consumer,21,10,1419.737,1,Loyal Regular
+RD-19810,Ross DeVincentis,Home Office,14,8,1137.616,1,Loyal Regular
+RD-19900,Ruben Dartt,Consumer,114,9,3133.924,1,Loyal Regular
+RD-19930,Russell D'Ascenzo,Consumer,42,4,970.9420000000001,2,At Risk
+RE-19405,Ricardo Emerson,Consumer,1097,1,48.36,3,New / Low Engagement
+RE-19450,Richard Eichhorn,Consumer,302,4,666.52,2,At Risk
+RF-19345,Randy Ferguson,Corporate,390,8,3309.15,1,Loyal Regular
+RF-19735,Roland Fjeld,Consumer,89,7,2341.2960000000003,1,Loyal Regular
+RF-19840,Roy Französisch,Consumer,6,7,938.862,2,At Risk
+RH-19495,Rick Hansen,Consumer,32,5,3621.3759999999997,2,At Risk
+RH-19510,Rick Huthwaite,Home Office,467,6,6979.18,0,High Value
+RH-19555,Ritsa Hightower,Consumer,519,2,740.382,3,New / Low Engagement
+RH-19600,Rob Haberlin,Consumer,534,3,2085.7400000000002,3,New / Low Engagement
+RK-19300,Ralph Kennedy,Consumer,119,3,1460.192,2,At Risk
+RL-19615,Rob Lucas,Consumer,121,8,6234.91,1,Loyal Regular
+RM-19375,Raymond Messe,Consumer,345,6,1453.474,2,At Risk
+RM-19675,Robert Marley,Home Office,6,5,5979.0960000000005,2,At Risk
+RM-19750,Roland Murray,Consumer,299,1,98.35,3,New / Low Engagement
+RO-19780,Rose O'Brian,Consumer,35,7,3815.478,1,Loyal Regular
+RP-19270,Rachel Payne,Corporate,496,4,954.6452,3,New / Low Engagement
+RP-19390,Resi Pölking,Consumer,33,12,5153.084,1,Loyal Regular
+RP-19855,Roy Phan,Corporate,28,7,2055.356,1,Loyal Regular
+RR-19315,Ralph Ritter,Consumer,19,2,615.932,2,At Risk
+RR-19525,Rick Reed,Corporate,170,6,3302.2619999999997,2,At Risk
+RS-19420,Ricardo Sperren,Corporate,76,5,3221.29,2,At Risk
+RS-19765,Roland Schwarz,Corporate,36,8,4159.7699999999995,1,Loyal Regular
+RS-19870,Roy Skaria,Home Office,19,2,22.328,2,At Risk
+RW-19540,Rick Wilson,Corporate,120,7,7397.401,0,High Value
+RW-19630,Rob Williams,Corporate,89,9,3279.746,1,Loyal Regular
+RW-19690,Robert Waldorf,Consumer,79,5,3495.646,2,At Risk
+SA-20830,Sue Ann Reed,Consumer,63,10,4767.3415,1,Loyal Regular
+SB-20170,Sarah Bern,Consumer,201,3,1348.02,2,At Risk
+SB-20185,Sarah Brown,Consumer,188,6,6410.996,0,High Value
+SB-20290,Sean Braxton,Corporate,47,7,8057.891,0,High Value
+SC-20020,Sam Craven,Consumer,780,5,3362.9636,3,New / Low Engagement
+SC-20050,Sample Company A,Home Office,40,9,4624.572,1,Loyal Regular
+SC-20095,Sanjit Chand,Consumer,349,9,14142.333999999999,0,High Value
+SC-20230,Scot Coram,Corporate,149,4,4371.9580000000005,2,At Risk
+SC-20260,Scott Cohen,Corporate,187,8,3729.7929999999997,1,Loyal Regular
+SC-20305,Sean Christensen,Consumer,29,6,3650.473,2,At Risk
+SC-20380,Shahid Collister,Consumer,30,9,5992.536,1,Loyal Regular
+SC-20440,Shaun Chance,Corporate,36,7,1874.998,1,Loyal Regular
+SC-20575,Sonia Cooley,Consumer,92,4,799.798,2,At Risk
+SC-20680,Steve Carroll,Home Office,126,6,1254.64,2,At Risk
+SC-20695,Steve Chapman,Corporate,89,10,2576.408,1,Loyal Regular
+SC-20725,Steven Cartwright,Consumer,187,11,5226.21,1,Loyal Regular
+SC-20770,Stewart Carmichael,Corporate,41,7,4492.657,1,Loyal Regular
+SC-20800,Stuart Calhoun,Consumer,30,4,279.25600000000003,2,At Risk
+SC-20845,Sung Chung,Consumer,414,1,14.112,3,New / Low Engagement
+SD-20485,Shirley Daniels,Home Office,200,9,6121.114,1,Loyal Regular
+SE-20110,Sanjit Engle,Consumer,9,11,12209.438000000002,0,High Value
+SF-20065,Sandra Flanagan,Consumer,59,7,763.5459999999999,2,At Risk
+SF-20200,Sarah Foster,Consumer,59,9,3422.7859999999996,1,Loyal Regular
+SF-20965,Sylvia Foulston,Corporate,48,9,3336.535,1,Loyal Regular
+SG-20080,Sandra Glassco,Consumer,8,3,3406.5809999999997,2,At Risk
+SG-20470,Sheri Gordon,Consumer,183,8,1884.798,1,Loyal Regular
+SG-20605,Speros Goranitis,Consumer,108,5,3118.892,2,At Risk
+SG-20890,Susan Gilcrest,Corporate,226,3,47.946,2,At Risk
+SH-19975,Sally Hughsby,Corporate,29,12,2465.6594999999998,1,Loyal Regular
+SH-20395,Shahid Hopkins,Consumer,23,10,2180.718,1,Loyal Regular
+SH-20635,Stefanie Holloman,Corporate,764,2,2096.392,3,New / Low Engagement
+SJ-20125,Sanjit Jacobs,Home Office,95,12,3949.656,1,Loyal Regular
+SJ-20215,Sarah Jordon,Consumer,29,6,1341.036,2,At Risk
+SJ-20500,Shirley Jackson,Consumer,253,5,1318.776,2,At Risk
+SK-19990,Sally Knutson,Consumer,8,3,883.409,2,At Risk
+SL-20155,Sara Luxemburg,Home Office,70,6,3046.532,2,At Risk
+SM-20005,Sally Matthias,Consumer,421,4,244.49399999999997,3,New / Low Engagement
+SM-20320,Sean Miller,Home Office,79,5,25043.05,0,High Value
+SM-20905,Susan MacKendrick,Consumer,606,1,1043.041,3,New / Low Engagement
+SM-20950,Suzanne McNair,Corporate,25,11,4464.862,1,Loyal Regular
+SN-20560,Skye Norling,Home Office,111,6,1860.418,2,At Risk
+SN-20710,Steve Nguyen,Home Office,79,7,3127.9592,1,Loyal Regular
+SO-20335,Sean O'Donnell,Consumer,29,6,2602.5755,2,At Risk
+SP-20545,Sibella Parks,Corporate,327,6,1306.086,2,At Risk
+SP-20620,Stefania Perrino,Corporate,47,9,5440.319,1,Loyal Regular
+SP-20650,Stephanie Phelps,Corporate,386,9,1872.4360000000001,1,Loyal Regular
+SP-20860,Sung Pak,Corporate,79,10,4282.94,1,Loyal Regular
+SP-20920,Susan Pistek,Consumer,70,6,3990.689,1,Loyal Regular
+SR-20425,Sharelle Roach,Home Office,8,5,3233.481,2,At Risk
+SR-20740,Steven Roelle,Home Office,196,8,4345.8859999999995,1,Loyal Regular
+SS-20140,Saphhira Shifley,Corporate,15,8,1324.028,1,Loyal Regular
+SS-20410,Shahid Shariari,Consumer,110,6,3056.8070000000002,2,At Risk
+SS-20515,Shirley Schmidt,Home Office,491,3,613.4,3,New / Low Engagement
+SS-20590,Sonia Sunley,Consumer,432,6,418.49,3,New / Low Engagement
+SS-20875,Sung Shariari,Consumer,120,5,964.636,2,At Risk
+ST-20530,Shui Tom,Consumer,125,7,433.34000000000003,2,At Risk
+SU-20665,Stephanie Ulpright,Home Office,20,7,2595.364,1,Loyal Regular
+SV-20365,Seth Vernon,Consumer,101,10,11470.949999999999,0,High Value
+SV-20785,Stewart Visinsky,Consumer,320,9,4105.305,1,Loyal Regular
+SV-20815,Stuart Van,Corporate,76,4,1271.0900000000001,2,At Risk
+SV-20935,Susan Vittorini,Consumer,2,8,1903.491,1,Loyal Regular
+SW-20245,Scot Wooten,Consumer,81,7,1085.078,2,At Risk
+SW-20275,Scott Williamson,Consumer,30,6,1966.65,2,At Risk
+SW-20350,Sean Wendt,Home Office,162,3,1019.044,2,At Risk
+SW-20455,Shaun Weien,Consumer,162,6,2835.564,2,At Risk
+SW-20755,Steven Ward,Corporate,534,2,758.6959999999999,3,New / Low Engagement
+SZ-20035,Sam Zeldin,Home Office,35,11,3625.329,1,Loyal Regular
+TA-21385,Tom Ashbrook,Home Office,69,4,14595.62,0,High Value
+TB-21055,Ted Butterfield,Consumer,119,4,1451.361,2,At Risk
+TB-21175,Thomas Boland,Corporate,58,4,3589.296,2,At Risk
+TB-21190,Thomas Brumley,Home Office,49,4,816.1740000000001,2,At Risk
+TB-21250,Tim Brockman,Consumer,349,7,1602.376,2,At Risk
+TB-21280,Toby Braunhardt,Consumer,583,6,2198.45,3,New / Low Engagement
+TB-21355,Todd Boyes,Corporate,146,5,834.328,2,At Risk
+TB-21400,Tom Boeckenhauer,Consumer,202,6,9108.742,0,High Value
+TB-21520,Tracy Blumstein,Consumer,107,9,4737.486,1,Loyal Regular
+TB-21595,Troy Blackwell,Consumer,285,4,1240.871,2,At Risk
+TB-21625,Trudy Brown,Consumer,30,9,2797.668,1,Loyal Regular
+TC-20980,Tamara Chand,Corporate,399,5,19052.218,0,High Value
+TC-21145,Theresa Coyne,Corporate,106,1,1038.26,2,At Risk
+TC-21295,Toby Carlisle,Consumer,27,8,4266.812,1,Loyal Regular
+TC-21475,Tony Chapman,Home Office,153,9,1244.976,1,Loyal Regular
+TC-21535,Tracy Collins,Home Office,4,7,742.5580000000001,2,At Risk
+TD-20995,Tamara Dahlen,Consumer,37,9,1434.5480000000002,1,Loyal Regular
+TG-21310,Toby Gnade,Consumer,337,5,3058.372,2,At Risk
+TG-21640,Trudy Glocke,Consumer,114,4,2074.661,2,At Risk
+TH-21100,Thea Hendricks,Consumer,344,5,2422.824,3,New / Low Engagement
+TH-21115,Thea Hudgings,Corporate,58,4,2942.772,2,At Risk
+TH-21235,Tiffany House,Corporate,117,8,1022.201,1,Loyal Regular
+TH-21550,Tracy Hopkins,Home Office,72,7,4234.0960000000005,1,Loyal Regular
+TM-21010,Tamara Manning,Consumer,103,7,2819.026,1,Loyal Regular
+TM-21490,Tony Molinari,Consumer,130,3,1094.6779999999999,2,At Risk
+TN-21040,Tanja Norvell,Home Office,90,7,3130.221,1,Loyal Regular
+TP-21130,Theone Pippenger,Consumer,8,9,4454.0560000000005,1,Loyal Regular
+TP-21415,Tom Prescott,Consumer,104,5,5329.0048,2,At Risk
+TP-21565,Tracy Poddar,Corporate,350,4,1936.6399999999999,3,New / Low Engagement
+TR-21325,Toby Ritter,Consumer,193,5,675.9419999999999,2,At Risk
+TS-21085,Thais Sissman,Consumer,357,2,4.833,3,New / Low Engagement
+TS-21160,Theresa Swint,Corporate,504,6,2163.6240000000003,3,New / Low Engagement
+TS-21205,Thomas Seio,Corporate,198,7,5371.09,1,Loyal Regular
+TS-21340,Toby Swindell,Consumer,226,5,974.7819999999999,2,At Risk
+TS-21370,Todd Sumrall,Corporate,36,6,11891.751,0,High Value
+TS-21430,Tom Stivers,Corporate,172,5,2054.14,2,At Risk
+TS-21505,Tony Sayre,Consumer,11,6,2243.274,2,At Risk
+TS-21610,Troy Staebel,Consumer,55,7,2820.424,1,Loyal Regular
+TS-21655,Trudy Schmidt,Consumer,238,5,3368.094,2,At Risk
+TT-21070,Ted Trevino,Consumer,31,7,4915.602,1,Loyal Regular
+TT-21220,Thomas Thornton,Consumer,183,8,1427.0439999999999,1,Loyal Regular
+TT-21265,Tim Taslimi,Corporate,406,3,439.5,3,New / Low Engagement
+TT-21460,Tonja Turnell,Home Office,12,7,5364.808,1,Loyal Regular
+TW-21025,Tamara Willingham,Home Office,64,7,5278.826,1,Loyal Regular
+TZ-21580,Tracy Zic,Consumer,35,4,1707.286,2,At Risk
+VB-21745,Victoria Brennan,Corporate,54,6,2005.596,2,At Risk
+VD-21670,Valerie Dominguez,Consumer,581,6,6442.254,3,New / Low Engagement
+VF-21715,Vicky Freymann,Home Office,13,5,847.944,2,At Risk
+VG-21790,Vivek Gonzalez,Consumer,154,6,846.01,2,At Risk
+VG-21805,Vivek Grady,Corporate,491,4,418.432,3,New / Low Engagement
+VM-21685,Valerie Mitchum,Home Office,54,7,2454.866,1,Loyal Regular
+VM-21835,Vivian Mathis,Consumer,117,5,380.69,2,At Risk
+VP-21730,Victor Preis,Home Office,30,3,993.9019999999999,2,At Risk
+VP-21760,Victoria Pisteka,Corporate,75,7,3360.526,1,Loyal Regular
+VS-21820,Vivek Sundaresam,Consumer,221,4,1055.981,2,At Risk
+VT-21700,Valerie Takahito,Home Office,999,2,1736.596,3,New / Low Engagement
+VW-21775,Victoria Wilson,Corporate,28,10,6134.0380000000005,1,Loyal Regular
+WB-21850,William Brown,Consumer,20,10,6129.71,1,Loyal Regular
+XP-21865,Xylona Preis,Consumer,43,11,2374.658,1,Loyal Regular
+YC-21895,Yoseph Carroll,Corporate,4,5,5454.35,2,At Risk
+YS-21880,Yana Sorensen,Corporate,9,8,6720.4439999999995,0,High Value
+ZC-21910,Zuschuss Carroll,Consumer,54,13,8025.707,0,High Value
+ZD-21925,Zuschuss Donatelli,Consumer,202,5,1493.944,2,At Risk
