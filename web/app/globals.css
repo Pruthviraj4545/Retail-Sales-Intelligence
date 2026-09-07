@@ -1,0 +1,58 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500;1,9..144,600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Design tokens ─────────────────────────────────────────────────────────── */
+:root {
+  --paper:     #17191D; /* deep charcoal register base */
+  --paper-alt: #1D2024; /* alt sections */
+  --surface:   #24272C; /* cards/tags */
+  --ink:       #EDE7DA; /* warm off-white primary text */
+  --ink-muted: #8C8880; /* muted text */
+  --stamp:     #E8622E; /* bright orange stamp action accent */
+  --ledger:    #6E93B5; /* ledger blue secondary data */
+  --line:      #34383F; /* border color */
+}
+
+/* ── Reset ──────────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'IBM Plex Sans', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  line-height: 1.6;
+}
+
+/* ── Animations ─────────────────────────────────────────────────────────────── */
+@keyframes countUp {
+  from { opacity: 0; transform: translateY(5px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+}
+
+/* ── Manifest table ─────────────────────────────────────────────────────────── */
+.manifest-table { width: 100%; border-collapse: collapse; font-family: 'IBM Plex Mono', monospace; font-size: 12px; }
+.manifest-table th {
+  text-align: left; color: var(--ink-muted); font-weight: 500;
+  padding: 6px 10px; border-bottom: 1px solid var(--line);
+  letter-spacing: 0.08em; text-transform: uppercase; font-size: 10px;
+}
+.manifest-table td {
+  padding: 7px 10px; border-bottom: 1px solid var(--line);
+  color: var(--ink); font-variant-numeric: tabular-nums;
+}
+.manifest-table tr:last-child td { border-bottom: none; }
+
+/* ── Perforated edge ────────────────────────────────────────────────────────── */
+.perf-top    { border-top:    2px dashed var(--line); }
+.perf-bottom { border-bottom: 2px dashed var(--line); }

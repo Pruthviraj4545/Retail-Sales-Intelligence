@@ -1,0 +1,14 @@
+orderDate,salesAmount,customerId,region,category,shipDate,shipMode
+2024-01-05,899.99,CUST-1042,West,Technology,2024-01-08,First Class
+2024-01-07,1240.50,CUST-2187,East,Furniture,2024-01-12,Standard Class
+2024-01-09,84.30,CUST-0831,South,Office Supplies,2024-01-10,Same Day
+2024-01-11,0,CUST-3394,Central,Technology,2024-01-14,Second Class
+2024-01-14,23.75,CUST-1042,West,Office Supplies,2024-01-16,Standard Class
+2024-01-15,-150.00,CUST-4520,East,Furniture,2024-01-20,First Class
+2024-01-18,319.49,CUST-0291,South,Technology,2024-01-15,Same Day
+2099-06-30,500.00,CUST-9999,West,Technology,2099-07-05,Standard Class
+2024-01-22,,CUST-5678,West,Furniture,2024-01-26,Second Class
+,1099.00,CUST-3394,Central,Technology,2024-01-28,First Class
+2024-01-09,84.30,CUST-0831,South,Office Supplies,2024-01-10,Same Day
+2024-01-09,84.30,CUST-0831,South,Office Supplies,2024-01-10,Same Day
+2024-02-01,250.00,CUST-7777,North,Electronics,2024-01-28,Express
