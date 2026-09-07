@@ -131,7 +131,7 @@ export default function Hero() {
                   transition:     'background-color 0.15s',
                 }}
               >
-                Power BI dashboard <ArrowUpRight size={12} />
+                Power BI handoff <ArrowUpRight size={12} />
               </a>
             </div>
           </div>

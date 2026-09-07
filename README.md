@@ -13,6 +13,11 @@ An end-to-end **Data Engineering, Statistical Analytics, and Full-Stack Intellig
 
 This project spans the entire data lifecycle: **Raw Transaction Ingestion → Automated ETL Cleaning & Validation → Star-Schema SQLite Warehouse → ANOVA Statistical Hypothesis Testing → Machine Learning RFM Customer Segmentation (K-Means) → Production Interactive Next.js Portfolio & In-Browser CSV Manifest Engine**.
 
+**Project status**
+
+- Stage 1: Data Engineering & Analytics — Completed
+- Stage 2: Power BI Interactive Dashboard — In Progress
+
 
 ## 📑 Table of Contents
 
