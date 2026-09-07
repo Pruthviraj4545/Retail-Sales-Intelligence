@@ -1,0 +1,29 @@
+Total Sales = SUM ( Fact_Sales[sales] )
+
+Order Lines = COUNTROWS ( Fact_Sales )
+
+Orders = DISTINCTCOUNT ( Fact_Sales[order_id] )
+
+Customers = DISTINCTCOUNT ( Dim_Customer[customer_id] )
+
+Average Order Value = DIVIDE ( [Total Sales], [Orders] )
+
+Sales per Customer = DIVIDE ( [Total Sales], [Customers] )
+
+Average Days to Ship =
+AVERAGEX (
+    Fact_Sales,
+    DATEDIFF ( Fact_Sales[order_date], Fact_Sales[ship_date], DAY )
+)
+
+Sales YoY % =
+VAR PriorYearSales =
+    CALCULATE ( [Total Sales], DATEADD ( Dim_Date[order_date], -1, YEAR ) )
+RETURN
+    DIVIDE ( [Total Sales] - PriorYearSales, PriorYearSales )
+
+Customer Share =
+DIVIDE (
+    [Customers],
+    CALCULATE ( [Customers], REMOVEFILTERS ( Dim_Customer ) )
+)
